@@ -1,0 +1,1 @@
+python predict.py --arch vgg --path 'flowers/test/10/image_07090.jpg' --categories 'cat_to_name.json' --topk 4 --gpu True
